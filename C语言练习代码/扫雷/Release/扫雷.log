@@ -1,0 +1,14 @@
+﻿  test.c
+F:\工程文件\C语言\课堂练习代码\扫雷\test.c(23,14): warning C4047: “函数”:“char *”与“char [9][9]”的间接级别不同
+F:\工程文件\C语言\课堂练习代码\扫雷\test.c(23,14): warning C4024: “Init”: 形参和实参 1 的类型不同
+F:\工程文件\C语言\课堂练习代码\扫雷\test.c(23,18): warning C4047: “函数”:“char *”与“char [11][11]”的间接级别不同
+F:\工程文件\C语言\课堂练习代码\扫雷\test.c(23,18): warning C4024: “Init”: 形参和实参 2 的类型不同
+F:\工程文件\C语言\课堂练习代码\扫雷\test.c(24,17): warning C4047: “函数”:“char *”与“char [9][9]”的间接级别不同
+F:\工程文件\C语言\课堂练习代码\扫雷\test.c(24,17): warning C4024: “Display”: 形参和实参 1 的类型不同
+F:\工程文件\C语言\课堂练习代码\扫雷\test.c(25,13): warning C4047: “函数”:“char *”与“char [11][11]”的间接级别不同
+F:\工程文件\C语言\课堂练习代码\扫雷\test.c(25,13): warning C4024: “Display”: 形参和实参 1 的类型不同
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  扫雷.vcxproj -> F:\工程文件\C语言\课堂练习代码\C语言练习程序\Release\扫雷.exe
