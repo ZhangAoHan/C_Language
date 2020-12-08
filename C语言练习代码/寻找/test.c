@@ -20,12 +20,30 @@ int main()
 
 void Years(int year) //判断闰年函数
 {
-	if (year % 4 == 0 && year % 100 != 0) //闰年
+	if (year % 100 == 0) //世纪年
 	{
-		printf("%d 年是闰年\n",year);
+			if (year % 400 == 0)
+			{
+				printf("%d 年是闰年\n", year);
+			}
+			else
+			{
+				printf("%d 年不是是闰年\n", year);
+			}
+			
+		
 	}
-	else
+	else 
 	{
-		printf("%d 年不是是闰年\n", year);
+		if (year % 4 == 0 && year % 100 != 0) //闰年
+		{
+			printf("%d 年是闰年\n", year);
+		}
+
+		else
+		{
+			printf("%d 年不是是闰年\n", year);
+		}
 	}
+
 }
