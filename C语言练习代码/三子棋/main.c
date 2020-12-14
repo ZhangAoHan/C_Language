@@ -29,6 +29,7 @@ int main()
 	int Legal = 0; //合法标志位
 	int i = 0;
 	Init_display(); //初始化显示
+	QP_display(arr, arr_A, arr_B); //刷新棋盘
 	do
 	{
 			if (sit < 7) //落子模式

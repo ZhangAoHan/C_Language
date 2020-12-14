@@ -29,7 +29,7 @@ int SXH_num(int a)
 	b = a;
 	for (i = 1; i <= num; i++)
 	{
-		sum += pow(b % 10, 3);
+		sum += pow(b % 10, num);
 		b = b / 10;
 	}
 	if (sum == a)

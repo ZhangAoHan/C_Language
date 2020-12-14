@@ -1,8 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include < stdio.h >
 #include < assert.h >
-
-//C D的意思是相反的，所以C D必有一人说谎
+//代码是我抄的答案，没想到这个思路。
 int main()
 {
 	int murder[4] = { 0 }; //默认4个人都不是凶手
