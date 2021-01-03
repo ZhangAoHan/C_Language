@@ -1,0 +1,6 @@
+﻿  test.c
+F:\工程文件\C语言\课堂练习代码\qsort模拟实现\test.c(21,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\工程文件\C语言\课堂练习代码\qsort模拟实现\test.c(23,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\工程文件\C语言\课堂练习代码\qsort模拟实现\test.c(29,23): warning C4018: “<”: 有符号/无符号不匹配
+F:\工程文件\C语言\课堂练习代码\qsort模拟实现\test.c(45,15): warning C4013: “strcmp”未定义；假设外部返回 int
+  qsort模拟实现.vcxproj -> F:\工程文件\C语言\课堂练习代码\C语言练习程序\Debug\qsort模拟实现.exe
