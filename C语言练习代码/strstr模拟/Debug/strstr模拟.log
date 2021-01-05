@@ -1,0 +1,4 @@
+﻿  test.c
+F:\工程文件\C语言\课堂练习代码\strstr模拟\test.c(49,16): warning C4090: “return”: 不同的“const”限定符
+F:\工程文件\C语言\课堂练习代码\strstr模拟\test.c(63,23): warning C4090: “return”: 不同的“const”限定符
+  strstr模拟.vcxproj -> F:\工程文件\C语言\课堂练习代码\C语言练习程序\Debug\strstr模拟.exe
