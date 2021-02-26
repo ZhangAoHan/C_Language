@@ -1,0 +1,12 @@
+﻿  test.c
+F:\工程文件\C语言\数据结构\顺序表\Seqlist.h(56,16): warning C4018: “<”: 有符号/无符号不匹配
+F:\工程文件\C语言\数据结构\顺序表\Seqlist.h(71,16): warning C4018: “<”: 有符号/无符号不匹配
+F:\工程文件\C语言\数据结构\顺序表\Seqlist.h(87,16): warning C4018: “<”: 有符号/无符号不匹配
+F:\工程文件\C语言\数据结构\顺序表\Seqlist.h(91,16): warning C4018: “<”: 有符号/无符号不匹配
+F:\工程文件\C语言\数据结构\顺序表\Seqlist.h(115,16): warning C4018: “<”: 有符号/无符号不匹配
+F:\工程文件\C语言\数据结构\顺序表\Seqlist.h(124,16): warning C4018: “<”: 有符号/无符号不匹配
+F:\工程文件\C语言\数据结构\顺序表\Seqlist.h(129,10): warning C4033: “SeqListFind”必须返回值
+F:\工程文件\C语言\数据结构\顺序表\Seqlist.h(152,16): warning C4018: “<”: 有符号/无符号不匹配
+F:\工程文件\C语言\数据结构\顺序表\Seqlist.h(178,18): warning C4018: “<”: 有符号/无符号不匹配
+F:\工程文件\C语言\数据结构\顺序表\Seqlist.h(133): warning C4716: “SeqListFind”: 必须返回一个值
+  顺序表.vcxproj -> F:\工程文件\C语言\数据结构\数据结构\Debug\顺序表.exe

@@ -1,0 +1,4 @@
+﻿  test.c
+F:\工程文件\C语言\数据结构\链表\test.c(110,28): warning C4013: “malloc”未定义；假设外部返回 int
+F:\工程文件\C语言\数据结构\链表\test.c(196,7): warning C4013: “free”未定义；假设外部返回 int
+  链表.vcxproj -> F:\工程文件\C语言\数据结构\数据结构\Debug\链表.exe
